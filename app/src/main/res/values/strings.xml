@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">frequency</string>
+
+
+    <string-array name="freqList">
+        <item>살 빠지는 주파수</item>
+        <item>잘 생겨지는 주파수</item>
+        <item>예뻐지는 주파수</item>
+        <item>저주 주파수</item>
+        <item>부자되는 주파수</item>
+        <item>연애 주파수</item>
+    </string-array>
+</resources>
